@@ -22,7 +22,7 @@ const Header = ({ darkMode, toggLeDarkMode,
                     >
                         <HiOutlineMenuAlt2 className="text-2xl"/>
                     </button>
-                    <a href="#" className="flex ms-2 md:me-24">
+                    <a href="/" className="flex ms-2 md:me-24">
                         <MdSpaceDashboard className="h-8 me-3
                         textxl text-violet-500"/>
                         <span className="self-center
