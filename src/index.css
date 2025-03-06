@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    @apply transition-colors duration-200;
+}
+.flex-col{
+    flex-direction: column;
+    margin-left: 62px;
+}
+@media (max-width: 640px) { /* For small screens */
+    .flex-col{
+        flex-direction: column;
+        margin-left: 0;
+    }
+}
