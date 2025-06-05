@@ -7,7 +7,7 @@ const User = () =>{
             <img src={userLogo} alt="\" className="w-14 h-14
             rounded-full" />
             <div>
-                <h3 className="font-semibold text-2xl">Jhon Doe</h3>
+                <h3 className="font-semibold text-2xl">Yaseer Majed</h3>
                 <p>Developer</p>
             </div>
         </div>
